@@ -1,0 +1,11 @@
+/home/alex/projekt/bin/Debug/netcoreapp3.1/projekt
+/home/alex/projekt/bin/Debug/netcoreapp3.1/projekt.deps.json
+/home/alex/projekt/bin/Debug/netcoreapp3.1/projekt.runtimeconfig.json
+/home/alex/projekt/bin/Debug/netcoreapp3.1/projekt.runtimeconfig.dev.json
+/home/alex/projekt/bin/Debug/netcoreapp3.1/projekt.dll
+/home/alex/projekt/bin/Debug/netcoreapp3.1/projekt.pdb
+/home/alex/projekt/obj/Debug/netcoreapp3.1/projekt.csprojAssemblyReference.cache
+/home/alex/projekt/obj/Debug/netcoreapp3.1/projekt.AssemblyInfoInputs.cache
+/home/alex/projekt/obj/Debug/netcoreapp3.1/projekt.AssemblyInfo.cs
+/home/alex/projekt/obj/Debug/netcoreapp3.1/projekt.dll
+/home/alex/projekt/obj/Debug/netcoreapp3.1/projekt.pdb
